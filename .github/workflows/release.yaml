@@ -7,7 +7,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: legonnarth/simple-app
+  IMAGE_NAME: mquispe-aquaware/simple-app
 
 jobs:
   release:
